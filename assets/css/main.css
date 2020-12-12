@@ -2536,27 +2536,27 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
+					color: #f8b195; /* #5e42a6 */
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
+					color: #F67280; /* #493382 */
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					color: #C06C84; /* #5052b5 */
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #6C5B7B; /* #3e4094 */
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #355C7D; /* #b74e91 */
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #355C7D; /* #953d75 */
 				}
 
 /* Image */
